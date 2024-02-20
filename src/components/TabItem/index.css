@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-items {
+  list-style-type: none;
+}
+.button-item {
+  color: #7b8794;
+  font-weight: bold;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid, #dfe2e5;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.active {
+  border-color: #2563eb;
+  color: #2563eb;
+}
